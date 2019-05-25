@@ -1,0 +1,13 @@
+course|dept|subject|status
+btech|cse|java|pass
+btech|cse|hadoop|fail
+btech|cse|cg|detained
+btech|cse|cc|pass
+btech|it|daa|pass
+btech|it|wt|pass
+btech|it|cnn|pass
+mba|hr|hrlaw|pass
+mba|hr|hrguid|absent
+mtech|cs|java|pass
+mtech|cs|cd|pass
+mtech|cs|cp|detained
